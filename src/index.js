@@ -1,6 +1,9 @@
 const messages = [
 	"Kim",
 	"Israel",
+	"Jacobo",
+	"Fany",
+	"Alondra",
 	"Otilia",
 	"Salomon",
 ];
